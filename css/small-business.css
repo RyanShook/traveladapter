@@ -12,3 +12,11 @@ body {
   body {
     padding-top: 56px;
   }
+
+#worldmap {
+  padding-top: 10%;
+}
+
+.list-group-hover .list-group-item:hover {
+    background-color: red;
+}
