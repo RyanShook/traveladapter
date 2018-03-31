@@ -6,7 +6,13 @@
 
 body {
   padding-top: 56px;
-}
+  font-family: 'Source Sans Pro', sans-serif;
+  }
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  }
 
 @media (min-width: 992px) {
   body {
@@ -15,8 +21,4 @@ body {
 
 #worldmap {
   padding-top: 10%;
-}
-
-.list-group-hover .list-group-item:hover {
-    background-color: red;
-}
+  }
