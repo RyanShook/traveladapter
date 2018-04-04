@@ -22,3 +22,14 @@ h2 {
 #worldmap {
   padding-top: 10%;
   }
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+}
