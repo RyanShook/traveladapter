@@ -37,3 +37,9 @@ h2 {
 .power-alert {
   margin-top: -20px;
 }
+.recommended {
+  padding-top: 25px;
+}
+#list {
+  padding-top: 25px;
+}
