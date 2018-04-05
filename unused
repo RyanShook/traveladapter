@@ -1,0 +1,18 @@
+FROM INDEX, following Popular Destinations
+
+<div class="col-lg-6">
+        <h3>Airlines and Cruise Ships</h3>
+        <div class="list-group">
+          <a href="britishairways.html" class="list-group-item">✈️ British Airways</a>
+          <a href="carnivalcruises.html" class="list-group-item">🚢 Carnival Cruises</a>
+          <a href="americanairlines.html" class="list-group-item">✈️ American Airlines</a>
+          <a href="royalcaribbean.html" class="list-group-item ">🚢 Royal Caribbean Cruises</a>
+          <a href="ryanair.html" class="list-group-item">✈️ Ryanair</a>
+          <a href="norweigancruises.html" class="list-group-item">🚢 Norweigan Cruises</a>
+          <a href="lufthansa.html" class="list-group-item">✈️ Lufthansa</a>
+          <a href="msccruises.html" class="list-group-item">🚢 MSC Cruises</a>
+          <a href="united.html" class="list-group-item">✈️ United Airlines</a>
+          <a href="starcruises.html" class="list-group-item">🚢 Star Cruises</a>
+          <a href="airfrance.html" class="list-group-item">✈️ Air France–KLM</a>
+        </div>
+      </div>
