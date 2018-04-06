@@ -28,7 +28,6 @@ h2 {
 .card {
   height: 100%;
 }
-}
 
 .navbar-brand {
    font-family: 'Source Sans Pro', sans-serif;
@@ -42,4 +41,5 @@ h2 {
 }
 #list {
   padding-top: 25px;
+}
 }
