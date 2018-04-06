@@ -16,3 +16,7 @@ FROM INDEX, following Popular Destinations
           <a href="airfrance.html" class="list-group-item">✈️ Air France–KLM</a>
         </div>
       </div>
+
+CENTER CONTAINERS/DIVS ON A PAGE
+<div>class="row justify-content-center align-items-center"</div>
+StackOverflow: https://stackoverflow.com/questions/42388989/bootstrap-4-center-vertical-and-horizontal-alignment
