@@ -20,3 +20,57 @@ FROM INDEX, following Popular Destinations
 CENTER CONTAINERS/DIVS ON A PAGE
 <div>class="row justify-content-center align-items-center"</div>
 StackOverflow: https://stackoverflow.com/questions/42388989/bootstrap-4-center-vertical-and-horizontal-alignment
+
+
+SOCIAL SHARE
+HTML
+<ul class="share-buttons">
+              <li>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftraveladapter.xyz&quote=" title="Share on Facebook"
+                  target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;">
+                  <img alt="Share on Facebook" src="images/Facebook.svg" />
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Ftraveladapter.xyz&text=:%20https%3A%2F%2Ftraveladapter.xyz"
+                  target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;">
+                  <img alt="Tweet" src="images/Twitter.svg" />
+                </a>
+              </li>
+              <li>
+                <a href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftraveladapter.xyz&title=&summary=&source=https%3A%2F%2Ftraveladapter.xyz"
+                  target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;">
+                  <img alt="Share on LinkedIn" src="images/LinkedIn.svg" />
+                </a>
+              </li>
+              <li>
+                <a href="mailto:?subject=&body=:%20https%3A%2F%2Ftraveladapter.xyz" target="_blank" title="Send email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;">
+                  <img alt="Send email" src="images/Email.svg" />
+                </a>
+              </li>
+            </ul>
+
+CSS
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only{
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+ul.share-buttons img{
+  width: 32px;
+}
