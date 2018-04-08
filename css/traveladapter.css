@@ -9,6 +9,20 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
   }
 
+a.navbar-brand {
+  font-weight: 600;
+}
+.power-alert {
+  margin-top: -25px;
+  margin-bottom: -10px;
+}
+.recommended {
+  margin-bottom: 20px;
+}
+.list {
+  margin-bottom: 20px;
+  margin-top: -10px;
+}
 h2 {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
@@ -27,19 +41,5 @@ h2 {
 
 .card {
   height: 100%;
-}
-
-.navbar-brand {
-   font-family: 'Source Sans Pro', sans-serif;
-  font-weight: 600;
-}
-.power-alert {
-  margin-top: -20px;
-}
-.recommended {
-  padding-top: 25px;
-}
-#list {
-  padding-top: 25px;
 }
 }
