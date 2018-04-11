@@ -74,3 +74,6 @@ ul.share-buttons .sr-only{
 ul.share-buttons img{
   width: 32px;
 }
+
+<!-- Social share buttons - AddThis before body close -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aca4e3b6edf4146"></script>
