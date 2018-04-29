@@ -31,6 +31,15 @@ footer.py-5 {
   margin-top: -10px;
 }
 
+/* Anchor link offset to compensate for fixed header */
+
+:target:before {
+  content: "";
+  display: block;
+  height: 70px;
+  margin: -70px 0 0;
+}
+
 h2 {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 600;
