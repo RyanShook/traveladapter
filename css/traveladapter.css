@@ -9,12 +9,22 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
-a.navbar-brand {
-  font-weight: 600;
-}
+a.navbar-brand {}
 
 footer.py-5 {
   padding-top: 2rem !important;
+}
+
+.jumbotron {
+  background: url(/images/travel.jpg);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  max-height: 75%;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.2);
+  margin-bottom: 4%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
 
 .power-alert {
