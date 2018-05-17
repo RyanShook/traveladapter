@@ -17,17 +17,13 @@ footer.py-5 {
 
 .jumbotron {
   /*background: url(/images/travel.jpg);
-  background: #007bff;
-  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom, #021B79, #007bff);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #021B79, #007bff);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #007bff;*/
+  background: linear-gradient(-45deg, #007bff 0, #093AC9 100%);
   background-size: cover;
   background-position: center;
-  color: white;
   max-height: 75%;
-  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4), 0px 8px 13px rgba(0, 0, 0, 0.1), 0px 18px 23px rgba(0, 0, 0, 0.2);
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4);
+  color: white;
   margin-bottom: 4%;
   padding-top: 5%;
   padding-bottom: 5%;
