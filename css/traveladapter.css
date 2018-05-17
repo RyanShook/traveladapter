@@ -16,7 +16,13 @@ footer.py-5 {
 }
 
 .jumbotron {
-  background: url(/images/travel.jpg);
+  /*background: url(/images/travel.jpg);
+  background: #007bff;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #021B79, #007bff);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #021B79, #007bff);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: cover;
   background-position: center;
   color: white;
@@ -34,6 +40,12 @@ footer.py-5 {
 
 .recommended {
   margin-bottom: 20px;
+  margin-top: -1%;
+}
+
+.rec-card-text {
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .list {
