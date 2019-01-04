@@ -8,11 +8,11 @@ Built becuase of my own frustration of trying to figure out what outlets and vol
 
 ## Contributing
 
-Have you been to one of the countries and know
+Help make traveling easier for everyone by sharing what you know about power in other countries! I'd love to have your help adding to this database. You can contribute by starting a [pull request](https://github.com/RyanShook/traveladapter.xyz/pulls) or you can [email me](mailto:traveladapterxyz@gmail.com).
 
 ## License
 
-This project is licensed under the MIT License - see https://opensource.org/licenses/MIT for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Acknowledgments
 
