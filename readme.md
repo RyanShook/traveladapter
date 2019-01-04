@@ -1,6 +1,6 @@
 # traveladapter.xyz 🔌
 
-Open source travel adapter database
+The open source travel adapter database.
 
 ## Getting Started
 
