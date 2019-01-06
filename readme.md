@@ -12,7 +12,7 @@ Help make traveling easier for everyone by sharing what you know about power in 
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/RyanShook/traveladapter.xyz/blob/master/LICENSE).
 
 ## Acknowledgments
 
