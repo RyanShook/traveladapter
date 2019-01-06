@@ -1,10 +1,10 @@
-# traveladapter.xyz 🔌
+# TravelAdapter.xyz 🔌
 
 The open source travel adapter database.
 
 ## Getting Started
 
-traveladapter.xyz is a simple travel adapter database that provides detailed information on electrical outlets, plug types, and voltages for specific regions around the world.
+TravelAdapter.xyz is a simple travel adapter database that provides detailed information on electrical outlets, plug types, and voltages for specific regions around the world.
 
 ## Contributing
 
