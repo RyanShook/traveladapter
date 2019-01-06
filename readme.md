@@ -16,4 +16,4 @@ This project is licensed under the [MIT License](https://github.com/RyanShook/tr
 
 ## Acknowledgments
 
-* Thank you to the Product Hunt community for advice and feedback!
+Thank you to the Product Hunt community for advice and feedback!
