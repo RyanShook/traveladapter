@@ -4,7 +4,7 @@ The open source travel adapter database.
 
 ## Getting Started
 
-Built becuase of my own frustration of trying to figure out what outlets and voltages I needed while traveling, traveladapter.xyz gives detailed information on the outlet, plug type, and voltage for a specific region along with any notes.
+traveladapter.xyz is a simple travel adapter database that provides detailed information on electrical outlets, plug types, and voltages for specific regions around the world.
 
 ## Contributing
 
