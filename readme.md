@@ -4,7 +4,7 @@ The open source travel adapter database.
 
 ## Getting Started
 
-TravelAdapter.xyz is a simple travel adapter database that provides detailed information on electrical outlets, plug types, and voltages for specific regions around the world. The only framework used is Bootstrap 4, there are no other frameworks used.
+TravelAdapter.xyz is a simple travel adapter database that provides detailed information on electrical outlets, plug types, and voltages for specific regions around the world. The site is built using HTML and Bootstrap so that anyone can contribute!
 
 ## Contributing
 
