@@ -1,6 +1,7 @@
-# TravelAdapter.info 🔌
+# TravelAdapter 🔌
 
 The open source travel adapter database.
+https://ryanshook.org/traveladapter/
 
 ## Getting Started
 
