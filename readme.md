@@ -10,7 +10,7 @@ TravelAdapter.info is a simple travel adapter database that provides detailed in
 
 ## Contributing
 
-Help make traveling easier for everyone by sharing what you know about electric standards in other countries! You can contribute by starting a [pull request](https://github.com/RyanShook/traveladapter.info/pulls) or you can [email me](mailto:traveladapterxyz@gmail.com).
+Help make traveling easier for everyone by sharing what you know about electric standards in other countries! You can contribute by starting a [pull request](https://github.com/RyanShook/traveladapter.info/pulls) or you can [email me](mailto:ryan@ryanshook.org).
 
 ## License
 
