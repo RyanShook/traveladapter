@@ -1,36 +1,28 @@
 {
-    "title": "Small Business",
-    "name": "startbootstrap-small-business",
-    "version": "4.0.0",
-    "description": "A small business HTML template built with Bootstrap",
+    "name": "traveladapter",
+    "version": "1.0.0",
+    "description": "The open source travel adapter database",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "travel",
+        "adapter",
+        "plug",
+        "voltage",
+        "converter",
+        "power"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/small-business",
+    "homepage": "https://traveladapter.info",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/RyanShook/traveladapter.info/issues",
+        "email": "ryan@ryanshook.org"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Ryan Shook",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-small-business.git"
+        "url": "https://github.com/RyanShook/traveladapter.info.git"
     },
     "dependencies": {
-        "bootstrap": "4.3.1",
-        "jquery": "3.5.0"
-    },
-    "devDependencies": {
-        "browser-sync": "2.23.6",
-        "gulp": "^3.9.1"
+        "bootstrap": "4.6.2",
+        "jquery": "3.7.1"
     }
 }
